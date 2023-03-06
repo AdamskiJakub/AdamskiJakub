@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamskiJakub
 - 👀 I’m interested in any kind of sport. Mostly Gym, kick boxing, volleyball. Also I'm a bartender. Used to work in Swedish Internet Television ZnipeTV, Gym, Cristal Hotel as a bartender. So I can say I like doing diffrent stuff.
-- 🌱 I’m currently learning React. And slowly creating sites. 
-Right now I've finished several courses: HTML, CSS, JS and i have at least basic knowledge to create pages.
+- 🌱 I’m currently learning React. And slowly creating sites and applications. 
+Right now I've finished several courses: HTML, CSS, JS and i have at least basic knowledge to create pages and applications.
 - 📫 How to reach me? porgenos32@wp.pl
 
 <!---
